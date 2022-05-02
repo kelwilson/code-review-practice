@@ -2,27 +2,27 @@
 
 # Project Name
 
-> Description the project.
-
+>Survey form
 
 ## Built With
 
-- Major languages
+- html/css
 - Frameworks
-- Technologies used
+- github, vs code, git bash
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**To Access my project locally you can follow these steps###
 
-
-To get a local copy up and running follow these simple example steps.
+1. Enter this url: <https://github.com/kelwilson/personal-portfolio/pull/1> in your web browser.
+2. Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
+3. Select download Zip option from drop down menu.
+4. Once the download is complete you will be able to access my project locally.
+   Here is my repository link: <https://github.com/kelwilson/personal-portfolio/pull/1>
 
 ### Prerequisites
 
@@ -36,19 +36,17 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
-👤 **Author1**
+👤 **kelwilson**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/kelwilson)
+- Twitter: [@twitterhandle](https://twitter.com/BesongMaris)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kelly-besong-b33074237)
 
-👤 **Author2**
+👤 **Favour ezeugwa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/Favourezeugwa)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
@@ -64,7 +62,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- thanks to favour Ezeugwu who also contributed to the code
 - Inspiration
 - etc
 
